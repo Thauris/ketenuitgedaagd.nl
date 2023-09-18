@@ -1,0 +1,55 @@
+title: "Inkijkexemplaar"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  Hieronder zijn een aantal pagina's uit het boek <strong>De keten uitgedaagd</strong> beschikbaar om te  bekijken.
+  
+pictures:
+  - title: "Kaft"
+    content: ""
+    image: "images/gallery/fulls/kaft-725.jpg"
+    thumb: "images/gallery/thumbs/kaft-360.jpg"
+    button: "Klik voor groot formaat"
+
+  - title: "Pagina 1"
+    content: ""
+    image: "images/gallery/fulls/p1-725.jpg"
+    thumb: "images/gallery/thumbs/p1-360.jpg"
+    button: "Klik voor groot formaat"
+
+  - title: "Pagina 2"
+    content: ""
+    image: "images/gallery/fulls/p2-725.jpg"
+    thumb: "images/gallery/thumbs/p2-360.jpg"
+    button: "Klik voor groot formaat"
+
+  - title: "Pagina 3"
+    content: ""
+    image: "images/gallery/fulls/p3-725.jpg"
+    thumb: "images/gallery/thumbs/p3-360.jpg"
+    button: "Klik voor groot formaat"
+
+  - title: "Pagina 4"
+    content: ""
+    image: "images/gallery/fulls/p4-725.jpg"
+    thumb: "images/gallery/thumbs/p4-360.jpg"
+    button: "Klik voor groot formaat"
+
+  - title: "Pagina 5"
+    content: ""
+    image: "images/gallery/fulls/p6-725.jpg"
+    thumb: "images/gallery/thumbs/p6-360.jpg"
+    button: "Klik voor groot formaat"
+
+  - title: "Pagina 6"
+    content: ""
+    image: "images/gallery/fulls/p7-725.jpg"
+    thumb: "images/gallery/thumbs/p7-360.jpg"
+    button: "Klik voor groot formaat"
+
+  - title: "Pagina 7"
+    content: ""
+    image: "images/gallery/fulls/p8-725.jpg"
+    thumb: "images/gallery/thumbs/p8-360.jpg"
+    button: "Klik voor groot formaat"
+
+    

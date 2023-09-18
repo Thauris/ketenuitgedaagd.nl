@@ -1,0 +1,17 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Verkrijg het boek"
+content: |
+  <span><table border="0" background-color="ffffff">
+  <tr><td><b>Softcover</b></td><td><b>Gratis ebook</b></td></tr>
+  <tr><td>Prijs: € 80,-</td><td>Prijs: € 0,-</td></tr>
+  <tr><td>Bindwijze: Paperback</td><td>Formaat: .pdf</td></tr>
+  <tr><td>Taal: Nederlands</td><td>Taal: Nederlands</td></tr>    
+  <tr><td>Pagina's: 440</td><td>Pagina's: 440</td></tr>
+  <tr><td>ISBN: 978-90-5199-534-3</td><td>ISBN: 978-90-5199-535-0</td></tr>  
+  </table></span>
+button: 
+  label: "Verkrijg het boek"
+  link: "https://www.iospress.com/catalog/books/de-keten-uitgedaagd"
+image: "images/keten_book.png"

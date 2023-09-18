@@ -1,0 +1,18 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "De keten uitgedaagd"
+subtitle: |
+  Besturen en verantwoorden in een wereld vol ICT
+content : |
+  Op 20 maart 2014 presenteerde Logius, in samenwerking met de TU Delft, het boek ‘De keten uitgedaagd’, het eerste boek dat een totaalinzicht geeft in informatievoorzieningen en ICT-projecten bij de overheid en een oplossing biedt voor de bijkomende valkuilen en problemen. In het kader van de publicatie van het boek zijn in totaal ook 11 colleges georganiseerd. Deze colleges zijn online terug te kijken in samenwerking met de Technische Universiteit Delft.
+
+button1:
+  label : "Verkrijg het boek"
+  link : "https://www.iospress.com/catalog/books/de-keten-uitgedaagd"
+
+button:
+  label : "Bekijk de colleges"
+  link : "#colleges"
+  
+image : "images/keten_banner.png"
+

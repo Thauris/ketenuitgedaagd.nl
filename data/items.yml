@@ -1,0 +1,70 @@
+title : "Colleges"
+content: |
+  <a name="colleges"></a>Vanuit diverse partijen is het verzoek gekomen om de kennis in het boek te activeren en in hapklare brokken over te dragen. Interactieve hoorcolleges zijn hiervoor een geschikt instrument: een groot aantal personen kan bij de kennisoverdracht bereikt worden. <p>In lijn met de 11 hoofdstukken uit het boek, zijn er ook 11 interactieve hoorcolleges verzorgd door de (co-)auteurs van het boek. Hieronder kunnen deze colleges worden teruggekeken.</p>
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "1 april 2014 | Introductie: keteninformatisering en Standard Business Reporting"
+    content : "SBR wordt de standaard voor verantwoording. Volg dit college om te weten wat er is bereikt en wat ons te wachten staat."
+    link : "https://collegerama.tudelft.nl/Mediasite/Play/cc270cf8dba84d09a69a5fc66ee410e31d?catalog=fd32fd35-6c99-466c-89d4-cd3c431bc8a4"
+    speaker : "drs. Remco van Wijk"
+
+  # feature item loop
+  - name : "15 april 2014 | Ketens en keten-coördinatie"
+    content : "Iedereen spreekt over ketens, maar waar hebben we het precies over? Dit college behandelt de fundamentele kenmerken van informatieketens en laat zie hoe deze zich ontwikkelen."
+    link : "https://collegerama.tudelft.nl/Mediasite/Play/a2b9b8d21cda4b6ca91878d2c6a21bf71d?catalog=fd32fd35-6c99-466c-89d4-cd3c431bc8a4&playFrom=12973&autoStart=true&popout=true"
+    speaker : "dr. Haiko van der Voort & drs. Remco van Wijk"
+    
+  # feature item loop
+  - name : "6 mei 2014 | Verandermanagement in ketens"
+    content : "Alle verandermanagement ‘goeroes’ zeggen de theorie te hebben voor het managen van veranderingen in organisaties. Dat zal wel, maar verandermanagement in ketens is andere koek. Dit college laat zien wat werkt en wat niet werkt."
+    link : "https://collegerama.tudelft.nl/Mediasite/Play/a368a06f2276427f8b5907f577507b9f1d?catalog=fd32fd35-6c99-466c-89d4-cd3c431bc8a4"
+    speaker : "dr. Haiko van der Voort & drs. Remco van Wijk"
+    
+  # feature item loop
+  - name : "20 mei 2014 | Besturen van ketenveranderingen"
+    content : "Bestuurders zullen beamen dat het leiden van ketenveranderingen een zeer complexe opgave is. Er zijn veel afhankelijkheden en bij veel type wijzigingen is het vooraf onduidelijk wat er precies moet wijzigen en hoe de nieuwe situatie er uit komt te zien. Dit college biedt een handvat voor het besturen van ketenveranderingen."
+    link : "https://collegerama.tudelft.nl/Mediasite/Play/02925c97ed004d59a37c336fff8892e41d?catalog=fd32fd35-6c99-466c-89d4-cd3c431bc8a4&playFrom=12585&autoStart=true&popout=true"
+    speaker : "drs. Remco van Wijk & Frans Hietbrink RE RA"
+     
+  # feature item loop
+  - name : "3 juni 2014 | I-processen"
+    content : "We weten al decennia dat de toepassing van ICT processen – zowel primair, administratief als sturend – gaat veranderen. Dit is voor een voor een deel zeker ook gebeurd, maar de grote winsten in termen van kosteneffectiviteit bij grote volumes zijn zeker binnen de overheid nog nauwelijks geboekt. Dit college behandelt de fundamentele vragen die spelen bij de automatisering van processen en laat zien wat de randvoorwaarden zijn voor proces-standaardisatie over meerdere informatieketens."
+    link : "https://collegerama.tudelft.nl/Mediasite/Play/1b2d004bc4cc4b8e8e7180d3cfa060d61d?catalog=fd32fd35-6c99-466c-89d4-cd3c431bc8a4&playFrom=53345&autoStart=true&popout=true"
+    speaker : "Prof. Marijn Janssen & drs. Remco van Wijk"
+    
+  # feature item loop
+  - name : "24 juni 2014 | Gegevens: syntax en semantiek"
+    content : "In de literatuur wordt XBRL een ‘sleeping giant’ genoemd die de komende jaren de verantwoordingswereld en informatieketens verregaand zal transformeren. Deze reus is met SBR al ontwaakt. Wil je weten waarom dit een reus is en hoe je ermee moet omgaan, dan is dit college een aanrader."
+    link : "https://collegerama.tudelft.nl/Mediasite/Play/c9ea966029a94501b3f308f36320ae281d?catalog=fd32fd35-6c99-466c-89d4-cd3c431bc8a4&playFrom=1189&autoStart=true&popout=true"
+    speaker : "mr. drs. Sebastiaan Bal RA & Jacques Urlus RE CISA BBA"
+    
+  # feature item loop
+  - name : "1 juli 2014 | Techniek: Digipoort afgepeld"
+    content : "Nergens ter wereld is men erin geslaagd om een procesinfrastructuur te ontwikkelen die meerdere procesgangen en uitvragende partijen kan bedienen. Hoe werkt dit? Welke standaarden worden gebruikt? Hoe worden webservices aangeroepen? Dit college geeft onder andere antwoord op deze vragen."
+    link : "https://collegerama.tudelft.nl/Mediasite/Play/461e06cc4e3f426882fbc996be93b46c1d?catalog=fd32fd35-6c99-466c-89d4-cd3c431bc8a4&autoStart=true&popout=true"
+    speaker : "Ir. Victor den Bak & Ir. Bart Hendriksen"
+    
+  # feature item loop
+  - name : "26 augustus 2014 | Informatiebeveiliging in ketens"
+    content : "Het beveiligen van websites is één ding, het beveiligen van vertrouwelijke rapportages naar de overheid is iets anders. Dit college neemt je mee in de eisen die de wet aan beveiliging stelt en de dreigingen die er spelen. De uitgebreide toelichting van de beveiligingsmiddelen die in SBR zijn gebruikt biedt inspiratie voor het end-to-end beveiligen van informatieketens."
+    link : "https://collegerama.tudelft.nl/Mediasite/Play/bb339198246c42bba1c7f52b3b5ba7de1d?catalog=fd32fd35-6c99-466c-89d4-cd3c431bc8a4"
+    speaker : "Iris Koetsenruijter LLM, dr.ir. Nitesh Bharosa & Jacques Urlus RE CISA BBA"
+    
+  # feature item loop
+  - name : "9 september 2014 | Ketengovernance en -beheer"
+    content : "SBR zorgt voor horizontale, verticale en netwerk-integratie. Om dit goed te doen moeten er op meerdere borden tegelijk worden geschaakt. Als je wilt weten hoe deze afstemming plaatsvindt is dit college een aanrader."
+    link : "https://collegerama.tudelft.nl/Mediasite/Play/1b80da21d55840c0956d824e845c93541d?catalog=fd32fd35-6c99-466c-89d4-cd3c431bc8a4"
+    speaker : "drs. Remco van Wijk"  
+
+  # feature item loop
+  - name : "23 september 2014 | Verbreding, aansluiten van nieuwe ketens"
+    content : "De aansluiting van ketens als inkomstenbelasting, vennootschapsbelasting, de jaarrekening en CBS rapportages is nog maar het begin. Er zijn nog meer ketens die met SBR hun voordeel kunnen doen. Ben je benieuwd welke ketens geschikt zijn en hoe je een aansluitprogramma vorm geeft? Dan mag je dit college niet missen!"
+    link : "https://collegerama.tudelft.nl/Mediasite/Play/da496e53de244ca7ab01e5a87bffc7121d?catalog=fd32fd35-6c99-466c-89d4-cd3c431bc8a4&playFrom=2950&autoStart=true"
+    speaker : "mr. Geert Nederhorst & drs. Erwin Rigter"
+   
+  # feature item loop
+  - name : "7 oktober 2014 | Afsluiting & paneldiscussie: de vooruitzichten van informatieketen"
+    content : "Met SBR zijn we een weg ingeslagen die nieuwe deuren opent. In dit college worden de vooruitzichten, kansen en barrières bediscussieerd. Deelnemers worden uitgenodigd om vooraf vragen te mailen die aan het panel worden voorgelegd."
+    link : "https://www.iospress.com/catalog/books/de-keten-uitgedaagd"
+    speaker : "Panel: Frans Hietbrink, Rob Kuipers, Steven Luitjens"

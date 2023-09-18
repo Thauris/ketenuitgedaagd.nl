@@ -1,0 +1,18 @@
+<!-- Banner -->
+<section class="banner {{ .style }}">
+    <div class="content">
+        {{ with .title }}<h1>{{ . }}</h1>{{ end }}
+        {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+		<div>
+        {{ with .button }}
+            <a href="{{ .link }}" class="button primary large wide smooth-scroll-middle">{{ .label }}</a>
+        {{ end }} 	&nbsp; &nbsp;
+		{{ with .button1 }}
+            <a href="{{ .link }}" class="button primary large wide smooth-scroll-middle">{{ .label }}</a>
+        {{ end }}</div>
+    </div>
+    {{ with .image }}<div class="image">
+        <img src="{{.}}" alt="De keten uitgedaagd" />
+    </div>{{end}}
+</section>

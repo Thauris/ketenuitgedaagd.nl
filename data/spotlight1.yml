@@ -1,0 +1,7 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "boek"
+title : "Over het boek"
+content: |
+  <i>Verantwoording is een maatschappelijk vraagstuk van de eerste orde, maar ook een bron van groeiende zorg en irritatie voor veel organisaties. In 2004 startten het ministerie van Financiën en het ministerie van Justitie een onderzoek naar de mogelijke toepassing van eXtensible Business Reporting Language (XBRL) als uniforme gegevensstandaard voor verantwoording. In 2006 lag er een architectuur voor Standard Business Reporting. In 2007 werden de eerste berichten in XBRL via een generieke voorziening succesvol bij de Belastingdienst en de Kamer van Koophandel afgeleverd. Eind 2009 werd er serieus ingezet op de grootschalige transitie van informatieketens. Sinds 2013 is Standard Business Reporting een werkende en efficiënte standaardoplossing voor massale verantwoording.</i>
+image: "images/keten_books.jpg"

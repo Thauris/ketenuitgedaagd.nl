@@ -1,0 +1,13 @@
+<!-- Footer -->
+<footer class="wrapper style1 align-center">
+    <div class="inner">
+		<p>Powered by:<p>
+		<a href="https://www.vidua.nl" target="_blank"><img src="images/vidua.svg" height="50" alt="Vidua"></a> &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.arcrole.com" target="_blank"><img src="images/arcrole.png" height="50" alt="arcrole"></a>
+	
+</div>
+</footer>
+
+<!-- FontAwesome JS -->
+{{ range .Site.Params.asset.fontawesome_js -}}
+    <script type="text/javascript" src="{{ . | absURL }}"></script>
+{{- end }}
