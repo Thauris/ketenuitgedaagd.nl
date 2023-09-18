@@ -12,12 +12,12 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
+baseURL = ""
 publishDir = "public"
 
 # Remote
-#baseURL = "/"
-#publishDir = "/"
+#baseURL = ""
+#publishDir = ""
 
 
 ## -----------------------------------------------
