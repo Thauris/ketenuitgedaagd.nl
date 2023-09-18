@@ -16,7 +16,7 @@ baseURL = "/"
 publishDir = "public"
 
 # Remote
-#baseURL = "https://www.deketenuitgedaagd.nl"
+#baseURL = "/"
 #publishDir = "/"
 
 
